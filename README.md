@@ -27,6 +27,7 @@ Visual components and Python
 DEVELPED BY : SRUTHI A
 
 REG NO : 24900467
+
 ![Screenshot 2024-12-21 140823](https://github.com/user-attachments/assets/e69b9c23-944e-4309-8be1-467e4429572e)
 
 
